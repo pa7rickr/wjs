@@ -91,7 +91,8 @@
     "nodemon": "latest",
     "node-fetch": "^2.6.5",
     "node-webpmux": "^3.1.0",
-    "syntax-error": "latest"
+    "syntax-error": "latest",
+    "sharp": "latest"
     
   },
   "engines": {
