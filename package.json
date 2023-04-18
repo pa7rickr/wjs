@@ -53,9 +53,11 @@
     "@typescript-eslint/eslint-plugin": "^5.57.1",
     "@typescript-eslint/parser": "^5.57.1",
     "@wppconnect/wa-version": "^1.2.15",
+    "axios": "latest",
     "buffer": "^6.0.3",
     "compressorjs": "^1.2.1",
     "conventional-changelog-cli": "^2.2.2",
+    "chalk": "latest",
     "debug": "^4.3.4",
     "eslint": "^8.38.0",
     "eslint-config-prettier": "^8.8.0",
@@ -82,7 +84,15 @@
     "typescript": "^5.0.4",
     "typescript-debounce-decorator": "^0.0.18",
     "webpack": "^5.78.0",
-    "webpack-cli": "^5.0.1"
+    "webpack-cli": "^5.0.1",
+    "mime": "latest",
+    "mime-types": "latest",
+    "mongoose": "^6.8.1",
+    "nodemon": "latest",
+    "node-fetch": "^2.6.5",
+    "node-webpmux": "^3.1.0",
+    "syntax-error": "latest"
+    
   },
   "engines": {
     "whatsapp-web": ">=2.2245.8-beta"
