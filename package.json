@@ -52,7 +52,7 @@
     "playwright-chromium": "^1.32.2",
     "syntax-error": "latest",
     "sharp": "latest",
-    "link-preview.js": "latest"
+    "link-preview-js": "latest"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.5.1",
