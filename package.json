@@ -50,7 +50,8 @@
     "node-fetch": "^2.6.5",
     "node-webpmux": "^3.1.0",
     "syntax-error": "latest",
-    "sharp": "latest"
+    "sharp": "latest",
+    "link-preview.js": "latest"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.5.1",
