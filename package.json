@@ -49,7 +49,7 @@
     "nodemon": "latest",
     "node-fetch": "^2.6.5",
     "node-webpmux": "^3.1.0",
-    "playwright-chromium": "latest",
+    "playwright": "latest",
     "syntax-error": "latest",
     "sharp": "latest",
     "link-preview-js": "latest"
