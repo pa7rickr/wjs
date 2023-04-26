@@ -75,7 +75,9 @@
     "prettier": "^2.8.7",
     "ts-morph": "^17.0.1",
     "typescript-debounce-decorator": "^0.0.18",
-    "webpack": "^5.78.0"
+    "webpack": "^5.78.0",
+    "husky": "latest",
+    "shx": "latest"
   },
   "engines": {
     "whatsapp-web": ">=2.2245.8-beta"
