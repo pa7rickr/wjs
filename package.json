@@ -79,7 +79,8 @@
     "husky": "^8.0.3",
     "shx": "^0.3.4",
     "webpack-cli": "^5.0.2",
-    "ts-loader": "^9.4.2"
+    "ts-loader": "^9.4.2",
+    "typescript": "^5.0.4"
   },
   "engines": {
     "whatsapp-web": ">=2.2245.8-beta"
