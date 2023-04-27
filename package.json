@@ -77,7 +77,8 @@
     "typescript-debounce-decorator": "^0.0.18",
     "webpack": "^5.78.0",
     "husky": "^8.0.3",
-    "shx": "^0.3.4"
+    "shx": "^0.3.4",
+    "webpack-cli": "^5.0.2"
   },
   "engines": {
     "whatsapp-web": ">=2.2245.8-beta"
