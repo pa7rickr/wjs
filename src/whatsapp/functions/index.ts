@@ -90,3 +90,7 @@ export * from './updateParticipants';
 export * from './uploadProductImage';
 export * from './uploadThumbnail';
 export * from './upsertVotes';
+export * from './changeOptInStatusForExternalWebBeta';
+export * from './frontendFireAndForget';
+export * from './getWhatsAppWebExternalBetaJoinedIdb';
+export * from './syncABPropsTask';
