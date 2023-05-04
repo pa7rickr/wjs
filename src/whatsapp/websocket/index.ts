@@ -20,3 +20,5 @@ export * from './sendSmaxStanza';
 export * from './smax';
 export * from './wap';
 export * from './WapNode';
+export * from './startWebComms';
+export * from './stopComms';
