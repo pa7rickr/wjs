@@ -33,7 +33,7 @@ import {
  * WPP.conn.joinWebBeta(true);
  * ```
  */
-export async function joinBeta(value: boolean): Promise<boolean> {
+export async function joinWebBeta(value: boolean): Promise<boolean> {
   const initialValue = await getWhatsAppWebExternalBetaJoinedIdb();
   if (initialValue === value) return initialValue;
 
