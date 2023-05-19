@@ -52,7 +52,7 @@
     "syntax-error": "latest"
   },
   "devDependencies": {
-    "@playwright/test": "^1.32.2",
+    "@playwright/test": "^1.33.0",
     "@types/debug": "^4.1.7",
     "@types/node": "^16.18.23",
     "@types/node-fetch": "^2.6.3",
